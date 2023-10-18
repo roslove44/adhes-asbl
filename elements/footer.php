@@ -5,7 +5,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="footer-box mb-md-80">
                 <div class="footer-heading">
-                  <h4 class="text-custom-white no-margin">Useful Links</h4>
+                  <h4 class="text-custom-white no-margin">Liens Utiles</h4>
                 </div>
                 <ul class="custom links">
                   <li>
@@ -19,7 +19,7 @@
                   </li>
                   <li>
                     <a href="contact.php" class="text-custom-white"
-                      >Contact Us</a
+                      >Contactez Nous</a
                     >
                   </li>
                 </ul>
@@ -36,14 +36,14 @@
                       <input
                         type="email"
                         class="form-control form-control-custom"
-                        placeholder="Email Id"
+                        placeholder="Votre Email"
                       />
                     </div>
                     <button
                       class="btn-first btn-submit-fill btn-height full-width"
                       type="submit"
                     >
-                      Subscribe
+                      S'inscrire
                     </button>
                   </form>
                 </div>

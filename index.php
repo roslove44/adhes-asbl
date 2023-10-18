@@ -219,164 +219,164 @@ require('./elements/header.php');
       <!-- End aboutus-2 -->
 
       <!-- Start Type of payment -->
-      <section>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-12 no-padding">
-              <div class="ln-type-payment-tabs">
-                <ul class="custom nav nav-tabs">
-                  <li class="nav-item">
-                    <a
-                      href="#home-loan"
-                      class="nav-link active"
-                      data-toggle="tab"
-                    >
-                      Notre GALERIE
-                    </a>
-                  </li>
-                </ul>
-                <div class="tab-content section-padding ln-type-payment">
-                  <div
-                    class="tab-pane container fade show active"
-                    id="home-loan"
-                   >
-                    <div class="row">
-                      <div class="col-12">
-                        <div class="tab-inner" style="background-color: none;">
-                          <div class="tab-heading section-padding-bottom">
+      <!--<section>-->
+      <!--  <div class="container-fluid">-->
+      <!--    <div class="row">-->
+      <!--      <div class="col-12 no-padding">-->
+      <!--        <div class="ln-type-payment-tabs">-->
+      <!--          <ul class="custom nav nav-tabs">-->
+      <!--            <li class="nav-item">-->
+      <!--              <a-->
+      <!--                href="#home-loan"-->
+      <!--                class="nav-link active"-->
+      <!--                data-toggle="tab"-->
+      <!--              >-->
+      <!--                Notre GALERIE-->
+      <!--              </a>-->
+      <!--            </li>-->
+      <!--          </ul>-->
+      <!--          <div class="tab-content section-padding ln-type-payment">-->
+      <!--            <div-->
+      <!--              class="tab-pane container fade show active"-->
+      <!--              id="home-loan"-->
+      <!--             >-->
+      <!--              <div class="row">-->
+      <!--                <div class="col-12">-->
+      <!--                  <div class="tab-inner" style="background-color: none;">-->
+      <!--                    <div class="tab-heading section-padding-bottom">-->
                             <!-- <h3 class="text-custom-white">
-                              Loan securely countrywide.
-                            </h3>
-                            <p class="text-custom-white no-margin">
-                              Loan around the corner or around the country.
-                              ADHES lets you loan securely and with less worry
-                              thanks to purchase protection.*
-                            </p>
-                          </div>
-                          <div class="row">
-                            <div class="col-lg-4 col-md-6">
-                              <div class="ln-type-payment-box mb-xl-30">
-                                <div class="payment-icon mb-xl-20">
-                                  <img
-                                    src="https://via.placeholder.com/80"
-                                    class="img-fluid"
-                                    alt="icon"
-                                  />
-                                </div>
-                                <div class="content-wrap">
-                                  <h4 class="text-custom-white fw-600">
-                                    Feel secure, start to finish.
-                                  </h4>
-                                  <p class="text-custom-white">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.
-                                  </p>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6">
-                              <div class="ln-type-payment-box mb-xl-30">
-                                <div class="payment-icon mb-xl-20">
-                                  <img
-                                    src="https://via.placeholder.com/80"
-                                    class="img-fluid"
-                                    alt="icon"
-                                  />
-                                </div>
-                                <div class="content-wrap">
-                                  <h4 class="text-custom-white fw-600">
-                                    Feel secure, start to finish.
-                                  </h4>
-                                  <p class="text-custom-white">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.
-                                  </p>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6">
-                              <div class="ln-type-payment-box mb-xl-30">
-                                <div class="payment-icon mb-xl-20">
-                                  <img
-                                    src="https://via.placeholder.com/80"
-                                    class="img-fluid"
-                                    alt="icon"
-                                  />
-                                </div>
-                                <div class="content-wrap">
-                                  <h4 class="text-custom-white fw-600">
-                                    Feel secure, start to finish.
-                                  </h4>
-                                  <p class="text-custom-white">
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.
-                                  </p>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="col-12 text-center">
-                              <a
-                                href="contact.php"
-                                class="btn-first btn-submit-white fw-600 mb-xl-20"
-                                >Contact Now</a
-                              >
-                              <a href="#" class="d-block text-white fw-600"
-                                >*See eligibility and limitations.</a
-                              >
-                            </div>
-                          </div> -->
-                          <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                                  <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                      <img src="./images/femme/1.jpg" class="d-block w-70" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/femme/3.jpg" class="d-block w-60" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/5.jpg" class="d-block w-80" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/6.jpg" class="d-block w-100" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/jeunes/0.jpg" class="d-block w-100" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/4.jpg" class="d-block w-80" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/6.jpg" class="d-block w-80" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/10.jpg" class="d-block w-80" alt="...">
-                                    </div>
-                                    <div class="carousel-item">
-                                      <img src="./images/evenement/11.jpg" class="d-block w-80" alt="...">
-                                    </div>
-                                  </div>
-                                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Previous</span>
-                                  </button>
-                                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Next</span>
-                                  </button>
-                            </div>
-                          </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <!--                        Loan securely countrywide.-->
+      <!--                      </h3>-->
+      <!--                      <p class="text-custom-white no-margin">-->
+      <!--                        Loan around the corner or around the country.-->
+      <!--                        ADHES lets you loan securely and with less worry-->
+      <!--                        thanks to purchase protection.*-->
+      <!--                      </p>-->
+      <!--                    </div>-->
+      <!--                    <div class="row">-->
+      <!--                      <div class="col-lg-4 col-md-6">-->
+      <!--                        <div class="ln-type-payment-box mb-xl-30">-->
+      <!--                          <div class="payment-icon mb-xl-20">-->
+      <!--                            <img-->
+      <!--                              src="https://via.placeholder.com/80"-->
+      <!--                              class="img-fluid"-->
+      <!--                              alt="icon"-->
+      <!--                            />-->
+      <!--                          </div>-->
+      <!--                          <div class="content-wrap">-->
+      <!--                            <h4 class="text-custom-white fw-600">-->
+      <!--                              Feel secure, start to finish.-->
+      <!--                            </h4>-->
+      <!--                            <p class="text-custom-white">-->
+      <!--                              Lorem ipsum dolor sit amet, consectetur-->
+      <!--                              adipisicing elit, sed do eiusmod tempor-->
+      <!--                              incididunt ut labore et dolore magna aliqua.-->
+      <!--                            </p>-->
+      <!--                          </div>-->
+      <!--                        </div>-->
+      <!--                      </div>-->
+      <!--                      <div class="col-lg-4 col-md-6">-->
+      <!--                        <div class="ln-type-payment-box mb-xl-30">-->
+      <!--                          <div class="payment-icon mb-xl-20">-->
+      <!--                            <img-->
+      <!--                              src="https://via.placeholder.com/80"-->
+      <!--                              class="img-fluid"-->
+      <!--                              alt="icon"-->
+      <!--                            />-->
+      <!--                          </div>-->
+      <!--                          <div class="content-wrap">-->
+      <!--                            <h4 class="text-custom-white fw-600">-->
+      <!--                              Feel secure, start to finish.-->
+      <!--                            </h4>-->
+      <!--                            <p class="text-custom-white">-->
+      <!--                              Lorem ipsum dolor sit amet, consectetur-->
+      <!--                              adipisicing elit, sed do eiusmod tempor-->
+      <!--                              incididunt ut labore et dolore magna aliqua.-->
+      <!--                            </p>-->
+      <!--                          </div>-->
+      <!--                        </div>-->
+      <!--                      </div>-->
+      <!--                      <div class="col-lg-4 col-md-6">-->
+      <!--                        <div class="ln-type-payment-box mb-xl-30">-->
+      <!--                          <div class="payment-icon mb-xl-20">-->
+      <!--                            <img-->
+      <!--                              src="https://via.placeholder.com/80"-->
+      <!--                              class="img-fluid"-->
+      <!--                              alt="icon"-->
+      <!--                            />-->
+      <!--                          </div>-->
+      <!--                          <div class="content-wrap">-->
+      <!--                            <h4 class="text-custom-white fw-600">-->
+      <!--                              Feel secure, start to finish.-->
+      <!--                            </h4>-->
+      <!--                            <p class="text-custom-white">-->
+      <!--                              Lorem ipsum dolor sit amet, consectetur-->
+      <!--                              adipisicing elit, sed do eiusmod tempor-->
+      <!--                              incididunt ut labore et dolore magna aliqua.-->
+      <!--                            </p>-->
+      <!--                          </div>-->
+      <!--                        </div>-->
+      <!--                      </div>-->
+      <!--                      <div class="col-12 text-center">-->
+      <!--                        <a-->
+      <!--                          href="contact.php"-->
+      <!--                          class="btn-first btn-submit-white fw-600 mb-xl-20"-->
+      <!--                          >Contact Now</a-->
+      <!--                        >-->
+      <!--                        <a href="#" class="d-block text-white fw-600"-->
+      <!--                          >*See eligibility and limitations.</a-->
+      <!--                        >-->
+      <!--                      </div>-->
+      <!--                    </div> -->-->
+      <!--                    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">-->
+      <!--                            <div class="carousel-inner">-->
+      <!--                              <div class="carousel-item active">-->
+      <!--                                <img src="./images/femme/1.jpg" class="d-block w-70" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/femme/3.jpg" class="d-block w-60" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/5.jpg" class="d-block w-80" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/6.jpg" class="d-block w-100" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/jeunes/0.jpg" class="d-block w-100" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/4.jpg" class="d-block w-80" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/6.jpg" class="d-block w-80" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/10.jpg" class="d-block w-80" alt="...">-->
+      <!--                              </div>-->
+      <!--                              <div class="carousel-item">-->
+      <!--                                <img src="./images/evenement/11.jpg" class="d-block w-80" alt="...">-->
+      <!--                              </div>-->
+      <!--                            </div>-->
+      <!--                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">-->
+      <!--                              <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+      <!--                              <span class="visually-hidden">Previous</span>-->
+      <!--                            </button>-->
+      <!--                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">-->
+      <!--                              <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+      <!--                              <span class="visually-hidden">Next</span>-->
+      <!--                            </button>-->
+      <!--                      </div>-->
+      <!--                    </div>-->
+      <!--                </div>-->
+      <!--              </div>-->
+      <!--            </div>-->
+      <!--          </div>-->
+      <!--        </div>-->
+      <!--      </div>-->
+      <!--    </div>-->
+      <!--  </div>-->
+      <!--</section>-->
       <!-- End Type of payment -->
       <!-- Start Main Services -->
       <section class="main-services section-padding p-relative">
@@ -541,10 +541,10 @@ require('./elements/header.php');
         <div class="container">
           <div class="section-header">
             <div class="section-heading">
-              <h3 class="text-custom-white fw-700">Our Teams</h3>
+              <h3 class="text-custom-white fw-700">L'Equipe</h3>
               <div class="section-description">
                 <p class="text-custom-white">
-                  Quelques Membres de l'Equipe
+                  <!--Quelques Membres de l'Equipe-->
                 </p>
               </div>
             </div>
@@ -585,76 +585,76 @@ require('./elements/header.php');
                     </div>
                   </div>
                 </div>
-                <div class="slide-item col-12">
-                  <div class="team-block p-relative">
-                    <div class="inner-box">
-                      <div class="image animate-img">
-                        <img
-                          src="./images/SCA.jpg"
-                          alt="img"
-                          class="full-width"
-                        />
+                <!--<div class="slide-item col-12">-->
+                <!--  <div class="team-block p-relative">-->
+                <!--    <div class="inner-box">-->
+                <!--      <div class="image animate-img">-->
+                <!--        <img-->
+                <!--          src="./images/SCA.jpg"-->
+                <!--          alt="img"-->
+                <!--          class="full-width"-->
+                <!--        />-->
                         <!-- <div class="overlay-box">
-                          <div class="overlay-inner p-relative full-height">
-                            <ul class="team-social-box custom">
-                              <li class="youtube">
-                                <a href="#" class="fab fa-youtube fs-16"></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div> -->
-                      </div>
-                      <div class="lower-content p-relative text-center">
-                        <h4>
-                          <a
-                            href="team.php"
-                            class="text-custom-black fw-600 fs-20"
-                          > Mathilde Idoniyi
-                            </a
-                          >
-                        </h4>
-                        <p class="designation text-light-white">
-                          Sécrétaire du conseil d'administration
-                        </p>
-                        <p class="designation text-light-white">Tél : 97 84 70 43</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="slide-item col-12">
-                  <div class="team-block p-relative">
-                    <div class="inner-box">
-                      <div class="image animate-img">
-                        <img
-                          src="./images/TCA.jpg"
-                          alt="img"
-                          class="full-width"
-                        />
+                <!--          <div class="overlay-inner p-relative full-height">-->
+                <!--            <ul class="team-social-box custom">-->
+                <!--              <li class="youtube">-->
+                <!--                <a href="#" class="fab fa-youtube fs-16"></a>-->
+                <!--              </li>-->
+                <!--            </ul>-->
+                <!--          </div>-->
+                <!--        </div> -->-->
+                <!--      </div>-->
+                <!--      <div class="lower-content p-relative text-center">-->
+                <!--        <h4>-->
+                <!--          <a-->
+                <!--            href="team.php"-->
+                <!--            class="text-custom-black fw-600 fs-20"-->
+                <!--          > Mathilde Idoniyi-->
+                <!--            </a-->
+                <!--          >-->
+                <!--        </h4>-->
+                <!--        <p class="designation text-light-white">-->
+                <!--          Sécrétaire du conseil d'administration-->
+                <!--        </p>-->
+                <!--        <p class="designation text-light-white">Tél : 97 84 70 43</p>-->
+                <!--      </div>-->
+                <!--    </div>-->
+                <!--  </div>-->
+                <!--</div>-->
+                <!--<div class="slide-item col-12">-->
+                <!--  <div class="team-block p-relative">-->
+                <!--    <div class="inner-box">-->
+                <!--      <div class="image animate-img">-->
+                <!--        <img-->
+                <!--          src="./images/TCA.jpg"-->
+                <!--          alt="img"-->
+                <!--          class="full-width"-->
+                <!--        />-->
                         <!-- <div class="overlay-box">
-                          <div class="overlay-inner p-relative full-height">
-                            <ul class="team-social-box custom">
-                              <li class="youtube">
-                                <a href="#" class="fab fa-youtube fs-16"></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div> -->
-                      </div>
-                      <div class="lower-content p-relative text-center">
-                        <h4>
-                          <a
-                            href="team.php"
-                            class="text-custom-black fw-600 fs-20"
-                          >
-                            Ella Kegnide</a
-                          >
-                        </h4>
-                        <p class="designation text-light-white">Trésorière du Conseil d'Administration</p>
-                        <p class="designation text-light-white">Tél : 97 04 09 79 <br> Email : kegnidee@gmail.com</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <!--          <div class="overlay-inner p-relative full-height">-->
+                <!--            <ul class="team-social-box custom">-->
+                <!--              <li class="youtube">-->
+                <!--                <a href="#" class="fab fa-youtube fs-16"></a>-->
+                <!--              </li>-->
+                <!--            </ul>-->
+                <!--          </div>-->
+                <!--        </div> -->-->
+                <!--      </div>-->
+                <!--      <div class="lower-content p-relative text-center">-->
+                <!--        <h4>-->
+                <!--          <a-->
+                <!--            href="team.php"-->
+                <!--            class="text-custom-black fw-600 fs-20"-->
+                <!--          >-->
+                <!--            Ella Kegnide</a-->
+                <!--          >-->
+                <!--        </h4>-->
+                <!--        <p class="designation text-light-white">Trésorière du Conseil d'Administration</p>-->
+                <!--        <p class="designation text-light-white">Tél : 97 04 09 79 <br> Email : kegnidee@gmail.com</p>-->
+                <!--      </div>-->
+                <!--    </div>-->
+                <!--  </div>-->
+                <!--</div>-->
               </div>
             </div>
           </div>
@@ -675,7 +675,7 @@ require('./elements/header.php');
             <div class="col-xl-5 col-lg-6 align-self-center">
               <div class="section-header">
                 <div class="section-heading">
-                  <h3 class="text-custom-black fw-700">Our FAQs</h3>
+                  <h3 class="text-custom-black fw-700">Notre FAQs</h3>
                   <div class="section-description">
                     <p class="text-light-white no-margin">
                       Avez-vous des préoccupations? Nous sommes là pour vous aider.
